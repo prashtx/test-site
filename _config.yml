@@ -2,4 +2,4 @@ permalink: posts/:categories/:year/:month/:day/:title.html
 cases: ['case-muncie', 'case-detroit']
 url: //prashtx.github.io/test-site
 prose:
-	siteurl: "http://prashtx.github.io/test-site"
+  siteurl: "http://prashtx.github.io/test-site"
